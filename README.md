@@ -22,3 +22,15 @@ This is a Java number-guessing game. It uses branches to demonstrate Advanced Br
 
 **documentation:** Used for the README and notes about the assignment
 
+## What I learned during this task
+
+During task 2 I learned how to work with different git branches using various functions. 
+I also learned how to use Git history to check that my changes were merged correctly, 
+and I was able to fix them when they were not. 
+
+**Merge:** I merged different branches together and learned how to resolve conflicts when they
+arose when the same files were changed. 
+**Rebase:** I rebased feature2 onto dev to include the latest changes from the previous commit. 
+**Squash:** I combined four of feature3 commits into one single commit. 
+**Cherry-Pick:** I applied the hotfix commit to main without merging the entire hotfix branch
+
